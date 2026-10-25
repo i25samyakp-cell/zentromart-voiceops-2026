@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.cache/
+outputs/
+evaluation_outputs/
+dataset/
+Capstone_Project_Dataset_FTTT_2026/
+tools/tickets_created.csv
+
+.env
+.venv/
+dataset/
+input_audio/
+outputs/
