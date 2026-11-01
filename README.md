@@ -1,6 +1,6 @@
 # VoiceOps 2026 - ZentroMart Support Agent
 
-**Participant:** Ishaan Agrawal  
+**Participant:** Samyak Parakh  
 **Public repository:** `REPLACE_WITH_PUBLIC_GITHUB_URL`
 
 ## What I built
